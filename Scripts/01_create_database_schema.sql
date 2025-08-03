@@ -1,0 +1,8 @@
+CREATE DATABASE DW_AdventureWorks;
+GO
+
+USE DW_AdventureWorks;
+GO
+
+CREATE SCHEMA DW;
+GO
