@@ -3,6 +3,7 @@ Este projeto tem como objetivo demonstrar minhas habilidades na construção de 
 
 
 Estrutura do Projeto
+
 1. Modelagem e ETL com SQL Server e SSIS
 Utilizei o SQL Server para ingestão e modelagem dos dados brutos.
 
@@ -30,6 +31,7 @@ Criação de hierarquias (ex: Ano > Mês > Dia).
 Formatação de campos e definição de métricas com DAX.
 
 📊 Dashboards Criados
+
 Página 1 — Visão Geral de Vendas
 KPIs dinâmicos com Revenue, Gross Profit, Total Orders e Ticket Médio.
 
@@ -51,6 +53,7 @@ Gráficos com uso do Top N dinâmico.
 Indicadores com ícones personalizados.
 
 📌 Técnicas e Destaques
+
 Criação de medidas com DAX para KPIs, médias, percentuais YoY, etc.
 
 Utilização de tooltips, formatação condicional e segmentações inteligentes.
@@ -60,6 +63,7 @@ Layout profissional com coerência visual, uso de ícones e foco em usabilidade.
 Separação clara entre dados brutos, tratados e visualização.
 
 💼 Tecnologias Utilizadas
+
 SQL Server Management Studio (SSMS)
 
 SQL Integration Services (SSIS)
@@ -69,6 +73,7 @@ Power BI Desktop
 GitHub para versionamento e portfólio
 
 📁 Repositório
+
 Neste repositório você encontra:
 
 Scripts SQL utilizados na modelagem e criação do DW
